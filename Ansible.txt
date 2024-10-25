@@ -1,2 +1,3 @@
 Welcome to ansible playbook
-add my name
+add my command
+git add all docs
